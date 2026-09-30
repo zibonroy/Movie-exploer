@@ -1,4 +1,4 @@
-#🎬 Movie Explorer
+##🎬Movie Explorer
 
 A modern and responsive **Country Explorer** web application built with **React.js**, **Tailwind CSS**, and a country data API.
 
@@ -26,7 +26,7 @@ Explore countries around the world, search by country name, filter by region, vi
 
 Explore countries and quickly find the information you need.
 
-### 🌎 Country Explorer
+### 🌎 Movie Explorer
 
 Search and filter countries using an intuitive interface.
 
