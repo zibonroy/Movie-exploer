@@ -1,4 +1,4 @@
-##🎬Movie Explorer
+# 🎬 Movie Explorer
 
 A modern and responsive **Country Explorer** web application built with **React.js**, **Tailwind CSS**, and a country data API.
 
